@@ -1,6 +1,6 @@
 <h3>Sotech here!</h3>
 
-<p>I’m a Software Dev interested in Games creation, Fullstack developing and why not Anime?</p>
+<p>I’m a Software Dev interested in Games creation and Fullstack developing</p>
 
 <p>I’m currently learning Node.js</p>
 
